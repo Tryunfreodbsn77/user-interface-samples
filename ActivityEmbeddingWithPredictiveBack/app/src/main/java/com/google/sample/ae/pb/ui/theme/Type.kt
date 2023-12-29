@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.google.sample.ae.pb.ui.theme
+package com.google.return.ae.pb.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
